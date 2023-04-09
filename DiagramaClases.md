@@ -62,15 +62,4 @@ MusicPlayer *-- VolumeControl
 MusicPlayer *-- Equalizer
 ```
 
-    @startuml
-
-    class Animal {
-        +eat()
-        +sleep()
-    }
-
-    class Dog {
-        +bark()
-    }
-    Animal <|-- Dog
-
+![Nombre de la imagen](LogoRAM.png)
