@@ -63,3 +63,4 @@ MusicPlayer *-- Equalizer
 ```
 
 ![Nombre de la imagen](LogoRAM.png)
+![Diagrama de clases](http://www.plantuml.com/plantuml/png/XLBBJiCm4BpdA_Re0Zbnywc0u1PK2Ocxcop8PHCNFof1nR_ZFB9Ev4hD8R9trZCxezqwhwmFBHKrAUUW2axNEr8_QE5SGFnAE0xNQdSl8Vv6S89EXaABJwRprf24z-LrQi7le4Z_efNmF1y7w7Of9ZPJhHSJ7vfGmfktkllSoAYYcmbstXp5kgIQGt1-b1Q49oG9klENcdW0iLS7CxJTGOkDdi-Al5cz_Yl6O99pE2ycVOc3NfcsVxLNzPV8A5TfSTgTdXtC9EXV-vfW99-EZJ4D6nplx98BR3N9FCOtd0oBC5pr528HPGqFaL9SYd2vLJTbcSBCa5Kc6PeMQ8jT4xVs7m00)
